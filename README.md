@@ -1,6 +1,5 @@
-# 05 Third-Party APIs: Work Day Scheduler
+#Work Day Scheduler using Third-Party APIs: 
 
-# <khyati-gandhi-webpage>
 
 ## Description
 
