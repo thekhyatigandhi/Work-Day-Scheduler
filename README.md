@@ -17,7 +17,7 @@ The link to the deployed page - https://thekhyatigandhi.github.io/Work-Day-Sched
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/Web-version.gif)
+![portfolio demo](./Assets/Work%20Day%20Scheduler.gif)
 
 ## Usage
 
