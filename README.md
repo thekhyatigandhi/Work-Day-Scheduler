@@ -6,7 +6,7 @@
 
 This Work Day Scheduler is a daily planner designed for employees with busy schedules. It allows you to add important events to a daily planner and manage your time effectively. The planner displays the current day, date and time at the top of the calendar and provides unique color coded timeblocks for standard business hours. You can enter events into the timeblocks and save them, and the saved events persist even after refreshing the page.
 
-The link to the deployed page - https://thekhyatigandhi.github.io/Advanced-CSS/
+The link to the deployed page - https://thekhyatigandhi.github.io/Work-Day-Scheduler/
 
 - [WEBSITE](#WEBSITE)
 - [Usage](#usage)
